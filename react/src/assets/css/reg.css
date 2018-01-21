@@ -1,0 +1,12 @@
+.regsiter{
+    margin-top: 180px;
+    text-align: center;
+    font:14px/28px '';
+}
+.regsiter label{
+    margin-top: 10px;
+}
+.regsiter .btnregsiter{
+    margin-top: 20px;
+    width: 80px;
+}

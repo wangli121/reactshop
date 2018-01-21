@@ -1,0 +1,16 @@
+.login{
+    margin-top: 250px;
+    text-align: center;
+    font:14px/28px '';
+}
+.login label{
+    margin-top: 10px;
+}
+.login .btnLogin{
+    margin-top: 20px;
+    width: 190px;
+}
+.login .logintoreg{
+    display: block;
+    text-decoration: underline;
+}
